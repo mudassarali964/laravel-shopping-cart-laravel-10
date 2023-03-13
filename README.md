@@ -1,8 +1,10 @@
 # Free Laravel Shopping Cart With Admin Template ##
 
-<img width="1430" alt="all_products" src="https://user-images.githubusercontent.com/55048197/224721339-c2227e4f-f15b-4b7b-9b79-18f8a843a2f7.png">
+<img width="1430" alt="all_products" src="https://user-images.githubusercontent.com/55048197/224738274-9b23b218-c5b3-4034-857b-1d5f89e6a5a2.png">
 
-<img width="1430" alt="cart" src="https://user-images.githubusercontent.com/55048197/224721359-3b75a70b-9c3b-4585-ad6f-6f1de9c22909.png">
+<img width="1430" alt="cart1" src="https://user-images.githubusercontent.com/55048197/224738305-a857dc99-6226-447f-af4c-77e67e73ee47.png">
+
+<img width="1430" alt="cart2" src="https://user-images.githubusercontent.com/55048197/224738319-a24bd90e-b87a-430b-ab9a-e9c221aaa326.png">
 
 ## Installation
 
