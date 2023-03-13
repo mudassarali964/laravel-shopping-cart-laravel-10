@@ -62,7 +62,7 @@ postgres= \q
 ```
 4. Create database
 ``` bash
-$ sudo -u postgres createdb laravel
+$ sudo -u postgres createdb laravel_shopping_cart
 ```
 5. Copy file ".env.example", and change its name to ".env".
    Then in file ".env" replace this database configuration:
