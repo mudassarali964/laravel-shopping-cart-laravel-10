@@ -78,18 +78,36 @@
     .top-15 {
         top: 58px !important;
     }
-}
-
-@media (min-width:760px) {
     .thumbnail img {
         width: 230px !important;
         height: 230px !important;
     }
 }
 
-@media (min-width:580px) {
+@media (max-width:1080px) {
     .thumbnail img {
-        width: 230px !important;
-        height: 230px !important;
+        width: 222px !important;
+        height: 222px !important;
+    }
+}
+
+@media (max-width:990px) {
+    .thumbnail img {
+        width: 163px !important;
+        height: 190px !important;
+    }
+}
+
+@media (max-width:575px) {
+    .thumbnail img {
+        width: 300px !important;
+        height: 300px !important;
+        margin: 0 12px 12px 107px;
+    }
+}
+
+@media (max-width:575px) {
+    .thumbnail img {
+        margin: 0;
     }
 }
