@@ -1,10 +1,14 @@
 # Free Laravel Shopping Cart With Admin Template ##
 
+<img width="1430" alt="all_products" src="https://user-images.githubusercontent.com/55048197/224721339-c2227e4f-f15b-4b7b-9b79-18f8a843a2f7.png">
+
+<img width="1430" alt="cart" src="https://user-images.githubusercontent.com/55048197/224721359-3b75a70b-9c3b-4585-ad6f-6f1de9c22909.png">
+
 ## Installation
 
 ``` bash
 # clone the repo
-$ git clone https://github.com/mudassarali964/admin-panel-laravel-10.git my-project
+$ git clone https://github.com/mudassarali964/laravel-shopping-cart-laravel-10.git my-project
 
 # go into app's directory
 $ cd my-project
